@@ -1,4 +1,4 @@
-# Max Coveri、MAX COVERI – Running In The 90's
+# MAX COVERI – RUNNING IN THE 90'S
 
 > **歌詞登録ステータス：同期歌詞あり**
 
