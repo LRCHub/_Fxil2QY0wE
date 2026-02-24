@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "RUNNING IN THE 90'S",
+  "base_artist": "MAX COVERI",
+  "createdAt": "2026-02-24T18:00:02.041677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Running in the 90s",
+      "artist": "RichaadEB",
+      "has_synced": true,
+      "path": "select/01_Running_in_the_90s_RichaadEB.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Running In The 90S",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/02_Running_In_The_90S_Max_Coveri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Running In The 90's",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/03_Running_In_The_90's_Max_Coveri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Home Mix",
+      "has_synced": true,
+      "path": "select/04_Running_in_the_90's_Home_Mix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RUNNING IN THE 90'S",
+      "artist": "Max Coveri",
+      "has_synced": false,
+      "path": "select/05_RUNNING_IN_THE_90'S_Max_Coveri.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Running in The 90's",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/06_Running_in_The_90's_Max_Coveri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Running in the 90s",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/07_Running_in_the_90s_Max_Coveri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Running In The 90s",
+      "artist": "Dave Rodgers",
+      "has_synced": false,
+      "path": "select/08_Running_In_The_90s_Dave_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Rodgers, Dave",
+      "has_synced": false,
+      "path": "select/09_Running_in_the_90's_Rodgers,_Dave.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/10_Running_in_the_90's_Max_Coveri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Running In The '90s",
+      "artist": "Dave Rodgers",
+      "has_synced": false,
+      "path": "select/11_Running_In_The_'90s_Dave_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Alex Yarmak",
+      "has_synced": false,
+      "path": "select/12_Running_in_the_90's_Alex_Yarmak.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Dave Rodgers",
+      "has_synced": false,
+      "path": "select/13_Running_in_the_90's_Dave_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "A. Yarmak",
+      "has_synced": false,
+      "path": "select/14_Running_in_the_90's_A._Yarmak.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Running in the 90's",
+      "artist": "Max Coveri",
+      "has_synced": true,
+      "path": "select/15_Running_in_the_90's_Max_Coveri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUNNING IN THE 90'S",
+      "artist": "MAX COVERI",
+      "has_synced": false,
+      "path": "select/pl_01_RUNNING_IN_THE_90'S_MAX_COVERI.txt"
+    }
+  ]
+}
